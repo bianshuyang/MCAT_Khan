@@ -13,9 +13,10 @@ Note: This project could also be used to download other K-12 material and test-p
 # How to Use
 0. Place all .py files in one same directory.
 0. Find a folder where you will save all of your videos and documents. It might took several gigabytes.
-0. urllib package should be installed.
+0. Python should be installed and added to Environmental Path, urllib package should be installed.
 1. Run main.py. Input the type of test you want. For instance, MCAT, nclex-rn, etc.
 2. After running the main.py, a bat file get_folder.bat will be found on this folder. Run this .bat file.
 3. Run submain.py, this will add a get_videos.py into each folder and create a get_video.bat.
 5. Run this get_video.bat file. It will download all videos from Khan.
-# This repository is still under construction.
+# Other features are still under construction.
+I am a novice at programming, if there are issues and errors please don't hesitate to contact me. Thanks.
