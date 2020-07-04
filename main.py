@@ -53,6 +53,8 @@ except:
 files= os.listdir(os.getcwd())
 files.remove('main.py')
 files.remove('create_folders.py')
+files.remove('get_videos.py')
+files.remove('submain.py')
 content = []
 course_type = 'nclex-rn'
 import shutil
